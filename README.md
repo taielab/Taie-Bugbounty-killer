@@ -27,6 +27,8 @@
 
 **制作翻译由**：**泰阿安全实验室(Taielab)出品**
 
+**原文出自:**https://www.infosecmatter.com/bug-bounty-tips-1/**这个系列**
+
 **Github**:https://github.com/taielab
 
 **博客**：https://blog.taielab.com
